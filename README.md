@@ -15,5 +15,12 @@ Onde foi desenvolvido um Widget de Feedback que permite ao usuário enviar bugs,
 
 ### ✅ Features
 
+-   [X]  Enviar feedback
 -   [X]  Escolher o tipo de feedback
 -   [X]  Enviar Print Screen junto com o feedback 
+
+### 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
